@@ -1,0 +1,108 @@
+.main {
+  background-color: #EDEDF5;
+  width:100%;
+  height:100%;
+}
+
+.header {
+  height: 200px;
+  background-color: #F2ECFF;
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+
+}
+
+.swaps_column {
+
+}
+
+.swaps_heading {
+
+}
+
+.buys_column {
+
+}
+
+.buys_heading {
+
+}
+
+.sells_column {
+
+}
+
+.sells_heading {
+
+}
+
+.trade_column {
+
+}
+
+.trade_heading {
+
+}
+
+.trade_details {
+
+}
+
+.label_left {
+
+}
+
+.label_right {
+
+}
+
+.swap_card, .buy_card, .sell_card {
+
+}
+
+.token_img {
+
+}
+
+.details_right {
+
+}
+
+.details_left {
+
+}
+
+.label {
+
+}
+
+.symbol {
+
+}
+
+.score {
+
+}
+
+.price {
+
+}
+
+.price .high {
+
+}
+
+.price .low {
+
+}
+
+.test_button {
+  
+}
+
+.send_button {
+
+}
